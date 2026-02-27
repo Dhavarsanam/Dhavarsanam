@@ -43,8 +43,12 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhavarsanam&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhavarsanam&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
+
+- 🚀 Built Production-Ready Mobile Applications  
+- 🔥 Strong in API Integration & Firebase  
+- 💡 Passionate About Clean Code & Architecture  
 
 ---
 
