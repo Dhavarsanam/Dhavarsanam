@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋 I'm Dhavarsanam</h1>
 
+<h3 align="center">🚀 Experienced Flutter Developer | Mobile App Architect</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Specialist;Dart+%7C+Firebase+%7C+REST+APIs;Clean+Code+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Scalable+Mobile+Applications;Dart+%7C+Firebase+%7C+REST+APIs;Clean+Architecture+Enthusiast;Performance+Focused+Engineer" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👨‍💻 Professional Summary
 
-🚀 Passionate Flutter Developer  
-📱 Building Production-Ready Mobile Applications  
-🔥 Focused on Clean Architecture & Performance  
-⚡ Strong in API Integration & Firebase  
+📱 Specialized in building **production-ready Flutter applications**  
+⚡ Strong expertise in **Dart, Firebase & REST API integration**  
+🏗 Experienced in **Clean Architecture & Scalable Code Design**  
+🚀 Focused on **performance optimization & maintainable codebases**  
+🔄 Efficient in **Git workflows & version control**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Flutter Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
@@ -23,36 +26,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhavarsanam&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhavarsanam&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhavarsanam&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhavarsanam&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhavarsanam&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhavarsanam&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Professional Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhavarsanam&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhavarsanam&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
-- 🚀 Built Production-Ready Mobile Applications  
-- 🔥 Strong in API Integration & Firebase  
-- 💡 Passionate About Clean Code & Architecture  
 
 ---
 
-## 👀 Profile Views Counter
+## 🎯 Core Expertise
+
+- 📱 Cross-platform Mobile App Development  
+- 🔥 Firebase Authentication & Firestore  
+- 🌐 REST API Integration  
+- 🧠 State Management & Architecture Patterns  
+- ⚡ App Performance Optimization  
+- 🚀 Deployment & Production Releases  
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhavarsanam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -60,22 +70,6 @@
 
 ---
 
-## 💬 Random Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavarsanam&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ⭐ Passionate about building impactful mobile applications
 </p>
