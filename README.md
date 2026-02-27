@@ -24,9 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="70"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio" />
 </p>
 
 ---
