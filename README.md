@@ -45,9 +45,11 @@
 
 ## 🏆 Professional Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhavarsanam&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+- 🚀 Production-Ready Flutter Application Development  
+- 🔥 Advanced Firebase & REST API Integration  
+- 🏗 Clean Architecture & State Management Implementation  
+- ⚡ Performance Optimization & UI Refinement  
+- 🔄 Git Workflow & Deployment Management  
 
 ---
 
