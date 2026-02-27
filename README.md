@@ -17,19 +17,16 @@
 🔄 Efficient in **Git workflows & version control**
 
 ---
-
 ## 🛠 Flutter Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dart" width="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Flutter+Expert;Dart+Specialist;Firebase+Integration;Performance+Focused+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="70"/>
 </p>
 
 ---
