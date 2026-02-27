@@ -21,9 +21,15 @@
 ## 🛠 Flutter Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="70" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
 </p>
 
 ---
