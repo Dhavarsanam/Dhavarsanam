@@ -122,9 +122,9 @@ status   : Open to Work ✅
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhavarsanam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070f1f&title_color=00f7ff&icon_color=a855f7&text_color=e2e8f0&ring_color=0066ff&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhavarsanam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070f1f&title_color=00f7ff&icon_color=a855f7&text_color=e2e8f0&ring_color=0066ff&cache_seconds=86400" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavarsanam&theme=tokyonight&hide_border=true&bg_color=070f1f&title_color=00f7ff&text_color=e2e8f0&layout=compact&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavarsanam&theme=tokyonight&hide_border=true&bg_color=070f1f&title_color=00f7ff&text_color=e2e8f0&layout=compact&langs_count=8&cache_seconds=86400" height="170"/>
 
 <br/><br/>
 
@@ -138,7 +138,7 @@ status   : Open to Work ✅
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhavarsanam&theme=tokyo-night&hide_border=true&bg_color=070f1f&color=00f7ff&line=a855f7&point=00f7ff&area=true&area_color=0066ff20&custom_title=Dhavarsanam's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhavarsanam&theme=tokyo-night&hide_border=true&bg_color=070f1f&color=00f7ff&line=a855f7&point=00f7ff&area=true&area_color=0066ff20&custom_title=Dhavarsanam's%20Contribution%20Graph&cache_seconds=86400"/>
 
 </div>
 
