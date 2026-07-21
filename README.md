@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020812,40:0a0a2e,80:0066ff,100:00f7ff&height=260&section=header&text=Dhavarsanam&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Flutter%20Developer%20%7C%20Mobile%20Architect%20%7C%20AI%20Engineer&descAlignY=65&descSize=17&descColor=00f7ff&stroke=00f7ff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020812,40:0a0a2e,80:0066ff,100:00f7ff&height=260&section=header&text=Dhavarsanam&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Flutter%20Developer%20%7C%20Mobile%20Architect&descAlignY=65&descSize=17&descColor=00f7ff&stroke=00f7ff&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=680&lines=🚀+Flutter+%26+Dart+Expert;📱+Cross-Platform+App+Architect;🤖+Generative+AI+%26+LLM+Integrator;🧠+On-Device+ML+%26+TFLite+Engineer;🔥+Firebase+%26+REST+API+Specialist;🏗+Clean+Architecture+Practitioner;⚡+60fps+Performance+Optimizer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=680&lines=🚀+Flutter+%26+Dart+Expert;📱+Cross-Platform+App+Architect;🔥+Firebase+%26+REST+API+Specialist;🏗+Clean+Architecture+Practitioner;⚡+60fps+Performance+Optimizer)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,6 @@
 
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=020812)
 ![Stack](https://img.shields.io/badge/STACK-Flutter%20%2B%20Dart-00f7ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=020812)
-![AI](https://img.shields.io/badge/AI-Gen%20AI%20Engineer-a855f7?style=for-the-badge&logo=openai&logoColor=white&labelColor=020812)
 ![Location](https://img.shields.io/badge/📍-Madurai%2C%20India-0066ff?style=for-the-badge&labelColor=020812)
 
 </div>
@@ -29,17 +28,15 @@
 
 ```yaml
 name     : Dhavarsanam M
-role     : Flutter Developer & AI Engineer
+role     : Flutter Developer
 location : Madurai, India
-focus    : Flutter · Dart · Firebase · Gen AI
+focus    : Flutter · Dart · Firebase
 status   : Open to Work ✅
 ```
 
 - 📱 Building **production-ready Flutter apps** with pixel-perfect UIs
-- 🤖 Integrating **Gemini, GPT-4, Claude** APIs into mobile apps
 - 🔥 Deep expertise in **Firebase & REST API** architecture
 - 🏗 Passionate about **Clean Architecture** — BLoC, Riverpod, MVVM
-- 🧠 Hands-on with **TFLite, MediaPipe** on-device ML
 - ⚡ Focused on **60fps performance** & maintainable codebases
 - 🔄 Fluent in **Git workflows, CI/CD & deployment pipelines**
 
@@ -59,10 +56,6 @@ status   : Open to Work ✅
 
 <img src="https://skillicons.dev/icons?i=firebase,gcp,postman&theme=dark"/>
 
-**🤖 AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark"/>
-
 **🛠 Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark"/>
@@ -79,9 +72,6 @@ status   : Open to Work ✅
 ![REST API](https://img.shields.io/badge/REST_API-Advanced-ff6b35?style=flat-square&logo=fastapi&logoColor=ff6b35&labelColor=070f1f)
 ![BLoC](https://img.shields.io/badge/BLoC-Expert-00ff88?style=flat-square&logo=dart&logoColor=00ff88&labelColor=070f1f)
 ![Riverpod](https://img.shields.io/badge/Riverpod-Advanced-00c8d4?style=flat-square&logo=dart&logoColor=00c8d4&labelColor=070f1f)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-Integrator-a855f7?style=flat-square&logo=google&logoColor=a855f7&labelColor=070f1f)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-Integrator-10b981?style=flat-square&logo=openai&logoColor=10b981&labelColor=070f1f)
-![TFLite](https://img.shields.io/badge/TFLite-On--Device_ML-ff6b35?style=flat-square&logo=tensorflow&logoColor=ff6b35&labelColor=070f1f)
 ![Git](https://img.shields.io/badge/Git-Advanced-f05032?style=flat-square&logo=git&logoColor=f05032&labelColor=070f1f)
 
 </div>
@@ -112,7 +102,7 @@ status   : Open to Work ✅
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1600&pause=300&color=00FF88&center=true&vCenter=true&repeat=true&width=680&lines=01+🚀+Production-Ready+Flutter+Apps+on+App+Store+%26+Play+Store;02+🔥+Advanced+Firebase+%26+REST+API+Architecture;03+🏗+Clean+Architecture+%26+State+Management+at+Scale;04+⚡+40%25+Performance+Boost+via+Widget+%26+Memory+Optimization;05+🤖+Gemini+%2F+GPT-4+Integration+in+Production+Flutter+Apps;06+🧠+On-Device+ML+—+TFLite+%26+MediaPipe+Zero+Latency;07+✍️+AI+Features:+Smart+Search%2C+Auto-Summarize%2C+LLM+Chat;08+🔄+Git+%26+CI%2FCD+—+Led+Deployments+for+Team+of+5%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1600&pause=300&color=00FF88&center=true&vCenter=true&repeat=true&width=680&lines=01+🚀+Production-Ready+Flutter+Apps+on+App+Store+%26+Play+Store;02+🔥+Advanced+Firebase+%26+REST+API+Architecture;03+🏗+Clean+Architecture+%26+State+Management+at+Scale;04+⚡+40%25+Performance+Boost+via+Widget+%26+Memory+Optimization;05+🔄+Git+%26+CI%2FCD+—+Led+Deployments+for+Team+of+5%2B)](https://git.io/typing-svg)
 
 </div>
 
@@ -122,10 +112,7 @@ status   : Open to Work ✅
 ║  02  🔥  Advanced Firebase & REST API Architecture                       ║
 ║  03  🏗  Clean Architecture & State Management at Scale                 ║
 ║  04  ⚡  40% Performance Boost — Widget & Memory Optimization           ║
-║  05  🤖  Gemini / GPT-4 Integration in Production Flutter Apps          ║
-║  06  🧠  On-Device ML — TFLite & MediaPipe Zero Latency Inference       ║
-║  07  ✍️  AI Features: Smart Search, Auto-Summarize, LLM Chat            ║
-║  08  🔄  Git & CI/CD — Led Deployments for Team of 5+                   ║
+║  05  🔄  Git & CI/CD — Led Deployments for Team of 5+                   ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -168,14 +155,9 @@ status   : Open to Work ✅
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-**AI & Backend**
+**Backend**
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **DevTools**
 
@@ -197,7 +179,7 @@ status   : Open to Work ✅
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=475569&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+⭐+Star+if+you+found+it+useful;Open+to+Flutter+%26+AI+collaborations+🤝;Building+the+future+one+widget+at+a+time+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1500&color=475569&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+⭐+Star+if+you+found+it+useful;Open+to+Flutter+collaborations+🤝;Building+the+future+one+widget+at+a+time+🚀)](https://git.io/typing-svg)
 
 <br/>
 
