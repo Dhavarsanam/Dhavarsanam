@@ -108,49 +108,6 @@ status   : Open to Work ✅
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="26"/> Generative AI & LLM Integration
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3500&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=680&lines=🤖+Generative+AI+%26+LLM+Integration;🧠+Intelligent+Mobile+Experiences;⚡+Bridging+AI+%2B+Flutter)](https://git.io/typing-svg)
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🧠 LLM Integration | 📷 Multimodal AI | 📲 On-Device ML |
-|:---:|:---:|:---:|
-| **Gemini, GPT-4, Claude** APIs for conversational features & AI-driven UX | **Vision-language** — image understanding, OCR, scene analysis on mobile | **TFLite & MediaPipe** — real-time inference, zero latency, full offline |
-
-| ✍️ AI Features | 🔗 RAG & Embeddings | 🛡 Responsible AI |
-|:---:|:---:|:---:|
-| Smart **writing, auto-summarize, semantic search** & recommendations | **RAG pipelines**, vector embeddings & context-aware AI responses | **Prompt engineering**, safety filters & content moderation |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**🧰 AI / ML Toolkit**
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logoColor=white)
-![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00BCD4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Firebase ML](https://img.shields.io/badge/Firebase_ML-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif" width="28"/> Achievements
 
 <div align="center">
